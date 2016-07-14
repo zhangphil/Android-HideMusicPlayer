@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:3:11-37
+		INJECTED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml
+		INJECTED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml
+		INJECTED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml
+		INJECTED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:6:5-43
+MERGED from [MainActivity:shadowLayout:unspecified] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\MainActivity\shadowLayout\unspecified\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml
+		INJECTED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:6:15-41
+		INJECTED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml
+		INJECTED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:11:2-71
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:11:19-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:12:2-75
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:12:19-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:13:2-72
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:13:19-70
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:14:2-75
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:14:19-73
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:15:2-64
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:15:19-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:16:2-64
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:16:19-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:17:22-75
+application
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:19:5-64:19
+MERGED from [MainActivity:shadowLayout:unspecified] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\MainActivity\shadowLayout\unspecified\AndroidManifest.xml:9:5-10:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\developer\code\MainActivity\mainActivity\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:19:18-50
+	android:icon
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:19:51-87
+	android:theme
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:20:18-49
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:21:18-55
+activity#com.zxsc.zxmusic.SplashActivity
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:23:9-27:20
+	android:screenOrientation
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:25:19-55
+	android:label
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:24:19-51
+	android:configChanges
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:26:19-69
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:23:19-49
+activity#com.zxsc.zxmusic.MainActivity
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:28:9-37:20
+	android:screenOrientation
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:30:19-55
+	android:launchMode
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:29:19-50
+	android:configChanges
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:31:19-69
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:28:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:35:27-74
+activity#com.zxsc.zxmusic.ThemeColorChangeActivity
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:38:9-42:19
+	android:screenOrientation
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:40:19-55
+	android:launchMode
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:39:19-50
+	android:configChanges
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:41:19-69
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:38:19-59
+activity#com.zxsc.zxmusic.SongDetailActivity
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:43:9-47:19
+	android:screenOrientation
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:45:19-55
+	android:launchMode
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:44:19-50
+	android:configChanges
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:46:19-69
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:43:19-53
+service#com.zxsc.zxmusic.service.ScanService
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:48:9-55
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:48:18-53
+service#com.zxsc.zxmusic.service.PlayService
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:49:9-55
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:49:18-53
+receiver#com.zxsc.zxmusic.receiver.NotificationRecevier
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:50:9-58:20
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:50:19-64
+intent-filter#close+next+play+play_update+previous
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:51:13-57:29
+action#play
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:52:17-46
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:52:25-44
+action#play_update
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:53:17-53
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:53:25-51
+action#close
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:54:17-47
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:54:25-45
+action#previous
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:55:17-50
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:55:25-48
+action#next
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:56:17-46
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:56:25-44
+service#com.zdp.aseo.content.AseoZdpUpdateService
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:59:17-85
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:59:26-82
+service#com.iflytek.voiceads.update.DownloadService
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:60:9-78
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:60:18-76
+activity#com.iflytek.voiceads.request.IFLYBrowser
+ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:61:3-62:52
+	android:screenOrientation
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:62:13-49
+	android:name
+		ADDED from C:\developer\code\MainActivity\mainActivity\src\main\AndroidManifest.xml:61:13-68

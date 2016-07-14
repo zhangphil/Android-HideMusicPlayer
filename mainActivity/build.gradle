@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.zxsc.zxmusic"
+        minSdkVersion 14
+        targetSdkVersion 14
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':shadowLayout')
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile files('libs/library.jar')
+    compile files('libs/support.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+}
